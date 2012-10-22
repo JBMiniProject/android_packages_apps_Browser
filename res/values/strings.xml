@@ -1045,6 +1045,25 @@
     <!-- Content description for tab switcher transition [CHAR LIMIT=NONE] -->
     <string name="accessibility_transition_navscreen">Tab management</string>
 
+    <!-- JB MINI PROJECT ADDITIONS -->
     <string name="menu_exit">Exit</string>
+    <string name="tab_settings_title">Tab settings</string>
+    <string name="pref_max_open_tabs">Maximum open tabs</string>
+    <string name="pref_max_open_tabs_summary">Configure the maximum allowable open tabs for the browser</string>
+    <string-array name="pref_max_open_tabs_choices">
+        <item>5</item>
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+        <item>75</item>
+    </string-array>
+    <string-array name="pref_max_open_tabs_values">
+        <item>5</item>
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+        <item>75</item>
+    </string-array>
+    <!-- JB MINI PROJECT ADDITIONS END-->
 
 </resources>
