@@ -1045,4 +1045,6 @@
     <!-- Content description for tab switcher transition [CHAR LIMIT=NONE] -->
     <string name="accessibility_transition_navscreen">Tab management</string>
 
+    <string name="menu_exit">Exit</string>
+
 </resources>
